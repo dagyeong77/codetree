@@ -1,13 +1,37 @@
-# 🌳 CodeTree Algorithm
+# 🌲 CodeTree TIL (알고리즘 감시 대시보드)
 
-CodeTree에서 풀이한 알고리즘 문제를 기록하는 저장소입니다.
+<p align="left">
+  <img src="https://img.shields.io/badge/Overall_Progress-20_1334_(1.5%25)-blue?style=for-the-badge&logo=codetree" />
+  <img src="https://img.shields.io/badge/Current_Trail-Novice_Low_(프로그래밍_기초)-green?style=for-the-badge" />
+</p>
 
-## 📚 Contents
+### 🎯 전체 커리큘럼 달성도
+`[░░░░░░░░░░░░░░░] 1.5% (20 / 1334 문제 해결)`
 
-* Platform: CodeTree
-* Language: Java
-* Purpose: 알고리즘 문제 풀이 및 코딩 테스트 대비
+---
 
-## 🎯 Goal
+## 📊 Trail별 상세 진도율
 
-꾸준한 문제 풀이를 통해 알고리즘 구현 능력과 문제 해결 능력을 향상시키는 것을 목표로 합니다.
+### 🔥 `Trail 1` - Novice Low (프로그래밍 기초)
+- **진행률:** `[░░░░░░░░░░] 5.1%` (20 / 396 문제)
+- **풀이한 챕터 현황:**
+  * 🟢 **조건문**: `19문제 완료`
+  * 🟢 **단순 반복문**: `1문제 완료`
+
+### ⚪ `Trail 2` - Novice Mid (프로그래밍 연습)
+- **진행률:** `[░░░░░░░░░░] 0%` (0 / 241 문제)
+
+### ⚪ `Trail 3` - Novice High (자료구조 알고리즘)
+- **진행률:** `[░░░░░░░░░░] 0%` (0 / 242 문제)
+
+### ⚪ `Trail 4` - Intermediate Low (알고리즘 입문)
+- **진행률:** `[░░░░░░░░░░] 0%` (0 / 130 문제)
+
+### ⚪ `Trail 5` - Intermediate Mid (알고리즘 기본)
+- **진행률:** `[░░░░░░░░░░] 0%` (0 / 176 문제)
+
+### ⚪ `Trail 6` - Intermediate High (알고리즘 실전)
+- **진행률:** `[░░░░░░░░░░] 0%` (0 / 149 문제)
+
+---
+> 🤖 *이 대시보드는 GitHub Actions를 통해 문제 제출 시 실시간 자동 반영됩니다.*
