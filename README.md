@@ -1,21 +1,21 @@
 # 🌲 CodeTree TIL (알고리즘 감시 대시보드)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Overall_Progress-35_1334_(2.6%25)-blue?style=for-the-badge&logo=codetree" />
+  <img src="https://img.shields.io/badge/Overall_Progress-36_1334_(2.7%25)-blue?style=for-the-badge&logo=codetree" />
   <img src="https://img.shields.io/badge/Current_Trail-Novice_Low_(프로그래밍_기초)-green?style=for-the-badge" />
 </p>
 
 ### 🎯 전체 커리큘럼 달성도
-`[░░░░░░░░░░░░░░░] 2.6% (35 / 1334 문제 해결)`
+`[░░░░░░░░░░░░░░░] 2.7% (36 / 1334 문제 해결)`
 
 ---
 
 ## 📊 Trail별 상세 진도율
 
 ### 🔥 `Trail 1` - Novice Low (프로그래밍 기초)
-- **진행률:** `[░░░░░░░░░░] 8.8%` (35 / 396 문제)
+- **진행률:** `[░░░░░░░░░░] 9.1%` (36 / 396 문제)
 - **풀이한 챕터 현황:**
-  * 🟢 **조건문**: `23문제 완료`
+  * 🟢 **조건문**: `24문제 완료`
   * 🟢 **단순 반복문**: `12문제 완료`
 
 ### ⚪ `Trail 2` - Novice Mid (프로그래밍 연습)
